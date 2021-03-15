@@ -1,0 +1,13 @@
+C:\Users\Danil\source\repos\EPAM_LAB_3\_Rhombus\bin\Debug\netcoreapp3.1\_Rhombus.exe
+C:\Users\Danil\source\repos\EPAM_LAB_3\_Rhombus\bin\Debug\netcoreapp3.1\_Rhombus.deps.json
+C:\Users\Danil\source\repos\EPAM_LAB_3\_Rhombus\bin\Debug\netcoreapp3.1\_Rhombus.runtimeconfig.json
+C:\Users\Danil\source\repos\EPAM_LAB_3\_Rhombus\bin\Debug\netcoreapp3.1\_Rhombus.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\EPAM_LAB_3\_Rhombus\bin\Debug\netcoreapp3.1\_Rhombus.dll
+C:\Users\Danil\source\repos\EPAM_LAB_3\_Rhombus\bin\Debug\netcoreapp3.1\_Rhombus.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_3\_Rhombus\obj\Debug\netcoreapp3.1\_Rhombus.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\EPAM_LAB_3\_Rhombus\obj\Debug\netcoreapp3.1\_Rhombus.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_3\_Rhombus\obj\Debug\netcoreapp3.1\_Rhombus.AssemblyInfo.cs
+C:\Users\Danil\source\repos\EPAM_LAB_3\_Rhombus\obj\Debug\netcoreapp3.1\_Rhombus.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_3\_Rhombus\obj\Debug\netcoreapp3.1\_Rhombus.dll
+C:\Users\Danil\source\repos\EPAM_LAB_3\_Rhombus\obj\Debug\netcoreapp3.1\_Rhombus.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_3\_Rhombus\obj\Debug\netcoreapp3.1\_Rhombus.genruntimeconfig.cache
